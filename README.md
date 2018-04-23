@@ -1,4 +1,4 @@
-#This is a Test Repo
+#This is a Test Repo for master branch
 --------------------
 Here we are testing the GIT features and commands of GIT to know more about the gitHub.
 
