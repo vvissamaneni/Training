@@ -1,5 +1,5 @@
-#This is a Test Repo for master branch
---------------------
+#This is a Test Repo for master branch before stash
+-----------------------------------------------------------------
 Here we are testing the GIT features and commands of GIT to know more about the gitHub.
 
 
